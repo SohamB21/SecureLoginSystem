@@ -1,5 +1,5 @@
 # SecureLoginSystem
-SecureLoginSystem is a PHP and Bootstrap-based user authentication system designed to provide secure user registration, login, and access to protected resources.
+SecureLoginSystem is a PHP, MySQL and Bootstrap based user authentication system designed to provide secure user registration, login, and access to protected resources.
 
 Features:
 
